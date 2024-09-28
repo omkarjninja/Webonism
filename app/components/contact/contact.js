@@ -70,7 +70,7 @@ export default function Contact() {
                       <FaEnvelope />
                       <h5 className="underline text-black text-base font-normal leading-6 ml-5">ojadhav250@gmail.com</h5>
                     </a>
-                    <a href="#" className="flex items-center">
+                    <a href='https://www.google.com/maps/@12.9415779,77.5918774,11z' target='__blank' className="flex items-center">
                       <FaMapMarkerAlt />
                       <h5 className="underline text-black text-base font-normal leading-6 ml-5">
                          Bangalore , Karntaka , India 
